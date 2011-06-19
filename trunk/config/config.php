@@ -5,9 +5,9 @@ $L2JBS_config["mysql_db"]="l2jdb";		// l2jdb or your lineage 2 server database n
 $L2JBS_config["mysql_login"]="root";		// MySQL Login name	
 $L2JBS_config["mysql_password"]="10031987";		// MySQL Password
 $htitle="L2J Holsety - Interlude Version";				// Site Title
-$fut="Design by SkyFall <br>2007";		// You can change only server name . You must leave Napas  
+$fut="Design by DNP <br>2007";		// You can change only server name . You must leave Napas  
 $top="100";					// How many players must be in top100
-$hserver="192.168.1.9";				// Server IP
+$hserver="192.168.1.50";				// Server IP
 $portgame="7777";				// Game Server Port
 $portlogin="2106";				// Server Port
 $where='1=1';					
