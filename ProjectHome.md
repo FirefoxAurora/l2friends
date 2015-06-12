@@ -1,0 +1,1 @@
+website : l2friend.com
